@@ -1,2 +1,2 @@
 # slots
-Basicslot mashine using Pygame
+Basic slot machine using Pygame
